@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environment folders
+venv/
+env/
+ENV/
+.venv/
+
+# Python-specific files
+*.pyo
+*.pyd
+.Python
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Media files / sound files (optional)
+*.mp3
+*.wav
+*.ogg
+
+# Ignore secrets or config files if any (uncomment if used)
+# config.ini
+# .env
+
+# Misc
+*.bak
+*.swp
